@@ -1,0 +1,18 @@
+﻿<Window x:Class="Andreja_Trivic_NOS_projekt.MainWindow"
+        Loaded="WindowLoaded"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Andreja_Trivic_NOS_projekt"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="850">
+    <Grid Width="850" Height="550" Background="#FFCECECE">
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Height="29" FontFamily="Cascadia Code"><Run Language="hr-hr" Text="Kriptiranje, dekriptiranje i digitalni potpis"/></TextBlock>
+        <StackPanel x:Name="UserControlStackPanel" HorizontalAlignment="Left" Height="375" Margin="25,120,0,0" VerticalAlignment="Top" Width="800"/>
+        <Button x:Name="btnAES" Content="Simetrično kriptiranje" HorizontalAlignment="Right" Margin="0,60,625,0" VerticalAlignment="Top" Width="200" Height="25" Background="#FF808080" FontSize="14" Click="btnAES_Click" RenderTransformOrigin="0.5,0.5" FontFamily="Cascadia Code">
+        </Button>
+        <Button x:Name="btnRSA" Content="Asimetrično kriptiranje" HorizontalAlignment="Left" Margin="245,60,0,0" VerticalAlignment="Top" FontSize="14" Width="200" Height="25" Background="#FF808080" Click="btnRSA_Click" FontFamily="Cascadia Code"/>
+        <Button x:Name="btnDS" Content="Digitalni potpis" HorizontalAlignment="Left" Margin="465,60,0,0" VerticalAlignment="Top" Width="200" Height="25" Background="#FF808080" FontFamily="Cascadia Code" Click="btnDS_Click" FontSize="14"/>
+    </Grid>
+</Window>

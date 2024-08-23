@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Andreja_Trivic_NOS_projekt.UserControls.AESUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Andreja_Trivic_NOS_projekt.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="375" d:DesignWidth="800">
+    <Grid Width="800" Height="375">
+        <Button x:Name="btnGenerateSecretKey" Content="Generiraj ključ" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="25" Width="150" FontSize="14" FontFamily="Cascadia Code" Click="btnGenerateSecretKey_Click"/>
+        <Button x:Name="btnGenerateHash" Content="Generiraj sažetak" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" FontSize="14" Width="150" Height="25" FontFamily="Cascadia Code" Click="btnGenerateHash_Click"/>
+        <Button x:Name="btnUploadFile" Content="Učitaj datoteku" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="150" Height="25" FontSize="14" FontFamily="Cascadia Code" Click="btnUploadFile_Click"/>
+        <Button x:Name="btnEncryptAES" Content="Kriptiraj" HorizontalAlignment="Left" Height="25" Margin="10,310,0,0" VerticalAlignment="Top" Width="150" FontSize="14" FontFamily="Cascadia Code" Click="btnEncryptAES_Click"/>
+        <Button x:Name="btnDecryptAES" Content="Dekriptiraj" HorizontalAlignment="Left" Margin="200,310,0,0" VerticalAlignment="Top" FontSize="14" Width="150" Height="25" FontFamily="Cascadia Code" Click="btnDecryptAES_Click"/>
+        <TextBox x:Name="txtHash" HorizontalAlignment="Left" Height="25" Margin="177,50,0,0" TextWrapping="Wrap" Text="Hash" VerticalAlignment="Top" Width="460" FontFamily="Cascadia Code" IsEnabled="False" Background="#FFEEEEEE"/>
+        <TextBox x:Name="txtFileName" HorizontalAlignment="Left" Height="25" Margin="177,90,0,0" TextWrapping="Wrap" Text="File name" VerticalAlignment="Top" Width="300" IsEnabled="False" FontFamily="Cascadia Code"/>
+        <TextBox x:Name="txtFileText" HorizontalAlignment="Center" Height="155" Margin="0,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" FontFamily="Cascadia Code" KeyUp="txtFileText_KeyUp"/>
+        <TextBlock x:Name="txtErrorMessage" HorizontalAlignment="Left" Margin="10,351,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Cascadia Code" Foreground="Red" Width="743" Height="14"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,52 @@
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.exe
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.deps.json
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.runtimeconfig.json
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.pdb
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt_MarkupCompile.cache
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt_MarkupCompile.lref
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.g.resources
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.AssemblyInfoInputs.cache
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.AssemblyInfo.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\refint\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.pdb
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.genruntimeconfig.cache
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\ref\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\AESUserControl.g.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\AESUserControl.baml
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\RSAUserControl.g.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\RSAUserControl.baml
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\DSUserControl.g.cs
+C:\Users\Andreja Trivic\source\repos\Andreja_Trivic_NOS_projekt\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\DSUserControl.baml
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.exe
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.deps.json
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.runtimeconfig.json
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\bin\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.pdb
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\AESUserControl.g.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\DSUserControl.g.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\RSAUserControl.g.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt_MarkupCompile.cache
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt_MarkupCompile.lref
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\AESUserControl.baml
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\DSUserControl.baml
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\UserControls\RSAUserControl.baml
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.g.resources
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.AssemblyInfoInputs.cache
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.AssemblyInfo.cs
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\refint\Andreja_Trivic_NOS_projekt.dll
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.pdb
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\Andreja_Trivic_NOS_projekt.genruntimeconfig.cache
+C:\Users\Andreja Trivic\Desktop\faks\1. DIPL\NOS\Andreja_Trivic_C#\Andreja_Trivic_NOS_projekt\obj\Debug\net6.0-windows\ref\Andreja_Trivic_NOS_projekt.dll

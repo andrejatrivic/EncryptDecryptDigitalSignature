@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Andreja_Trivic_NOS_projekt.UserControls.DSUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Andreja_Trivic_NOS_projekt.UserControls"
+             mc:Ignorable="d" d:DesignWidth="800" Height="375">
+    <Grid Height="375" Width="800">
+        <Button x:Name="btnGeneratePublicAndPrivateKey" Content="Generiraj ključeve" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="160" Height="25" FontSize="14" FontFamily="Cascadia Code" Click="btnGeneratePublicAndPrivateKey_Click"/>
+        <Button x:Name="btnUploadFile" Content="Učitaj datoteku" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="150" Height="25" FontFamily="Cascadia Code" FontSize="14" Click="btnUploadFile_Click"/>
+        <TextBox x:Name="txtFileName" HorizontalAlignment="Left" Margin="177,90,0,0" TextWrapping="Wrap" Text="File name" VerticalAlignment="Top" Width="300" IsEnabled="False" Height="25" FontFamily="Cascadia Code"/>
+        <TextBox x:Name="txtFileText" HorizontalAlignment="Center" Margin="0,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" FontFamily="Cascadia Code" Height="90" KeyUp="txtFileText_KeyUp"/>
+        <Button x:Name="btnAddSignature" Content="Potpiši" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Width="150" Height="25" FontFamily="Cascadia Code" FontSize="14" Click="btnAddSignature_Click"/>
+        <TextBox x:Name="txtGeneratedSignature" HorizontalAlignment="Center" Margin="0,270,0,0" TextWrapping="Wrap" Text="Digitalni potpis" VerticalAlignment="Top" Width="780" Height="50" FontFamily="Cascadia Code" KeyUp="txtGeneratedSignature_KeyUp"/>
+        <Button x:Name="btnVerifySignature" Content="Provjeri ispravnost potpisa" HorizontalAlignment="Left" Margin="10,335,0,0" VerticalAlignment="Top" FontFamily="Cascadia Code" Width="230" Height="25" FontSize="14" Click="btnVerifySignature_Click"/>
+        <TextBlock x:Name="txtError" HorizontalAlignment="Left" Margin="277,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Cascadia Code" FontSize="14" Width="513" Height="25" Foreground="Red"/>
+        <TextBlock x:Name="txtSignatureValid" HorizontalAlignment="Left" Margin="277,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Cascadia Code" FontSize="14" Foreground="#FF25CF00" Width="200" Height="25"/>
+        <Button x:Name="btnGenerateHash" Content="Generiraj sažetak" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="150" Height="25" FontFamily="Cascadia Code" FontSize="14" Click="btnGenerateHash_Click"/>
+        <TextBox x:Name="txtHash" HorizontalAlignment="Left" Margin="177,50,0,0" TextWrapping="Wrap" Text="Hash" VerticalAlignment="Top" Width="460" Height="25" FontFamily="Cascadia Code" IsEnabled="False"/>
+
+    </Grid>
+</UserControl>
